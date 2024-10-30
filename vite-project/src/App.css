@@ -1,0 +1,16 @@
+:root {
+    --primary-color: #D266A2;
+    --secondary-color: #79CCF5;
+    --text-color: #ffff;
+    --background-color: #0F172A;
+    --border-color: rgb(203 213 225 / 10%);
+    font-family: system-ui, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+
+#root{
+    min-height: 100dvh;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
