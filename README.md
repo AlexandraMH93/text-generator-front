@@ -2,6 +2,9 @@
 
 Este proyecto frontend está construido en **React** y **Vite**. Se conecta con una **API en Express** para interactuar con una base de datos y simular un generador de texto con inteligencia artificial. Los usuarios pueden registrarse, iniciar sesión y generar texto basado en un prompt y otras configuraciones.
 
+![image](https://github.com/user-attachments/assets/6f1a83b7-368b-4a57-aa7e-9b6e0bc8d29f)
+
+
 ## Índice
 
 - [Características](#características)
