@@ -23,9 +23,9 @@ const Login = () => {
   };
 
   return (
-    <div className="flex justify-center items-center m-y-auto max-h-screen w-full text-gray-800 text-xl">
+    <div className="flex justify-center items-center m-y-auto max-h-screen w-full text-gray-800 text-sm lg:text-xl">
       <div className="bg-white shadow-lg rounded-lg p-8 w-full max-w-md">
-        <h2 className="text-3xl font-bold text-center mb-4">Iniciar sesión</h2>
+        <h2 className=" text-xl lg:text-3xl font-bold text-center mb-4">Iniciar sesión</h2>
 
         {alert && (
           <div className="bg-yellow-100 border-l-4 border-yellow-500 text-yellow-700 p-4 mb-4 rounded">
@@ -74,7 +74,6 @@ const Login = () => {
                 onClick={() => setIsPassVisible(!isPassVisible)}
               >
                 {isPassVisible ? (
-                  // Icono de "ver contraseña"
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     fill="none"
@@ -90,7 +89,6 @@ const Login = () => {
                     />
                   </svg>
                 ) : (
-                  // Icono de "ocultar contraseña"
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     fill="none"
