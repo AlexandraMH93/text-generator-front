@@ -47,12 +47,19 @@ Este proyecto frontend está construido en **React** y **Vite**. Se conecta con 
     npm run dev
     ```
 ## Endpoints del Backend
+
 Estos son los endpoints principales que se utilizan para interactuar con la API:
 - **POST /auth/signUp**: Registro de un nuevo usuario.
 - **POST /auth/login**: Inicio de sesión y generación de token.
 - **POST /user/promptAndTextGenerated**: Envía un prompt y genera un texto aleatorio según las configuraciones.
 - **GET /user/history**: Recupera el historial de prompts y textos generados del usuario actual.
 
-  ## Licencia
+## Licencia
+
 Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
+
+## Enlace a la app
+
+[https://text-generator-front.vercel.app/]
+
     
