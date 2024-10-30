@@ -31,7 +31,7 @@ Este proyecto frontend está construido en **React** y **Vite**. Se conecta con 
 1. **Clona el Repositorio:**
    ```bash
    git clone [(https://github.com/username/text-generator-front.git)]
-   cd nombre-del-proyecto
+   cd vite-project
    ```
 2. **Instala las dependencias:**
 
