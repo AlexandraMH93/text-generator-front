@@ -60,6 +60,6 @@ Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
 
 ## Enlace a la app
 
-[https://text-generator-front.vercel.app/]
+https://text-generator-front.vercel.app/
 
     
